@@ -58,4 +58,4 @@ class StormRequireLogin {
 	}
 	
 }
-add_action('init', create_function('', 'new StormStagingSubdomainExceptions();') );
+add_action('init', create_function('', 'new StormRequireLogin();') );
