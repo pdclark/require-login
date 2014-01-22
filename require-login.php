@@ -2,33 +2,13 @@
 /*
 Plugin Name: Require Login
 Description: Require users to login to view the web site, e.g., for a staging server.
+Plugin URI: http://github.com/10up/require-login
+Author: Paul Clark, 10up
+Author URI: http://pdclark.com
 Version: 1.0
-Author: Brainstorm Media
-Author URI: http://brainstormmedia.com/ 
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
-
-/**
- * Copyright (c) 2012 Your Name. All rights reserved.
- *
- * Released under the GPL license
- * http://www.opensource.org/licenses/gpl-license.php
- *
- * This is an add-on for WordPress
- * http://wordpress.org/
- *
- * **********************************************************************
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
- * 
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- * **********************************************************************
- */
-
 
 /**
  * Modification for issues with staging server having different domain than live
