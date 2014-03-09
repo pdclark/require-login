@@ -2,7 +2,7 @@
 /*
 Plugin Name: Require Login
 Description: Require users to login to view the web site, e.g., for a staging server.
-Plugin URI: http://github.com/10up/require-login
+Plugin URI: https://github.com/brainstormmedia/require-login
 Author: Paul Clark, 10up
 Author URI: http://pdclark.com
 Version: 1.0
